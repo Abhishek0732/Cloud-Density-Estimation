@@ -37,9 +37,8 @@ PyTorch
 [SanghaiTech Dataset](https://www.kaggle.com/datasets/tthien/shanghaitech)
 
 ## Team
-### [Arnab Mitra](https://github.com/Arnab1998-cyber)
-### [Subhradipta Paul](https://github.com/SDP010)
+### Abhishek Kumar Verma
+### Aanchal Dwivedi
 
-## Paper link
-[MCNN PAPER](https://people.eecs.berkeley.edu/~yima/psfile/Single-Image-Crowd-Counting.pdf)
+
 
